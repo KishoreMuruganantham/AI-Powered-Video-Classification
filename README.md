@@ -37,7 +37,7 @@ Follow these instructions to set up the project and start running the video clas
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/KishoreMuruganantham/video-classification.git
+    git clone https://github.com/KishoreMuruganantham/AI-Powered-Video-Classification.git
     cd video-classification
     ```
 2. Install the required dependencies:
